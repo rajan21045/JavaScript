@@ -1,6 +1,7 @@
 // This code demonstrates the use of different variable declarations in JavaScript
 
 /*
+
 Variables are Containers for Storing Data
     JavaScript Variables can be declared in 4 ways:
 
