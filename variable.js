@@ -1,4 +1,4 @@
-// This code demonstrates the use of different variable declarations in JavaScript
+        // This code demonstrates the use of different variable declarations in JavaScript
 
 /*
 
