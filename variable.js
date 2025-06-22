@@ -17,7 +17,6 @@ l = 33;
 n =42;
 o = k + l + n;
 console.log("Sum of k, l, n:", o);
-
 /*
 
 From the examples you can guess:
