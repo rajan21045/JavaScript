@@ -2,7 +2,7 @@ let num1 = 12;
 let num2 = 28;
 let sum = num1 + num2;
 console.log("Sum:", sum);
-
+ 
 
 let num3 = 15;
 let num4 = 5;
