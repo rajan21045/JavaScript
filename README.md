@@ -21,20 +21,20 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 ---
 
 🛠 Tools & Resources
-	•	Editor: Visual Studio Code
-	•	Browser: Google Chrome
-	•	References:
-	•	MDN JavaScript Docs
-	•	JavaScript.info
+- Editor: Visual Studio Code
+- Browser: Google Chrome, Brave, FireFox
+- References:
+- MDN JavaScript Docs
+- JavaScript.info
 
 ---
 
 🚀 Future Plans
-	•	More advanced topics like:
-	•	Async/Await & Promises
-	•	Fetch API & AJAX
-	•	JavaScript Design Patterns
-	•	Larger Projects
+- More advanced topics like:
+- Async/Await & Promises
+- Fetch API & AJAX
+- JavaScript Design Patterns
+- Larger Projects
 
 ---
 
