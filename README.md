@@ -14,6 +14,7 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 
 ## 💡 How to Use
 1.	Clone this repository:
+
     git clone https://github.com/rajan21045/JavaScript.git
 2.	Open any .js file in your code editor.
 3.	Run using Node.js or in the browser console.
@@ -38,10 +39,9 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 📬 Contact
 
 If you have suggestions or want to collaborate, feel free to reach out!
+
 GitHub: rajan21045
 Email: raajan.works@example.com
 
 
-
-
-
+⭐ If you like this repo, consider giving it a star!
