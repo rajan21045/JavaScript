@@ -25,7 +25,7 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 - Browser: Google Chrome, Brave, FireFox
 - References:
     - MDN JavaScript Docs
-    - JavaScript.info
+    - **[JavaScript Info](https://javascript.info/)**
     - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/) 
     - Youtube JavaScript Tutorials 
 
