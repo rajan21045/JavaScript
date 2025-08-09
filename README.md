@@ -27,4 +27,4 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 ```
 ## 💡 How to Use
 1.	Clone this repository:
-    git clone https://github.com/rajan21045/js.git
+    git clone https://github.com/rajan21045/JavaScript.git
