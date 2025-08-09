@@ -26,15 +26,18 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 - References:
     - MDN JavaScript Docs
     - JavaScript.info
+    - W3Schools JavaScript Tutorials 
+    - Youtube JavaScript Tutorials 
+
 
 ---
 
 🚀 Future Plans
 - More advanced topics like:
-- Async/Await & Promises
-- Fetch API & AJAX
-- JavaScript Design Patterns
-- Larger Projects
+    - Async/Await & Promises
+    - Fetch API & AJAX
+    - JavaScript Design Patterns
+    - Larger Projects
 
 ---
 
