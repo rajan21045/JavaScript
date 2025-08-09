@@ -20,15 +20,11 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 
 ---
 
-🛠 Tools & Resources
+## 🛠 Tools 
 - Editor: Visual Studio Code
 - Browser: Google Chrome, Brave, FireFox
-- References:
-    - MDN JavaScript Docs
-    - **[JavaScript Info](https://javascript.info/)**
-    - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/) 
-    - Youtube JavaScript Tutorials 
 
+## 📚Resources
 
 ---
 
