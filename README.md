@@ -24,8 +24,8 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 - Editor: Visual Studio Code
 - Browser: Google Chrome, Brave, FireFox
 - References:
-- MDN JavaScript Docs
-- JavaScript.info
+    - MDN JavaScript Docs
+    - JavaScript.info
 
 ---
 
