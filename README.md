@@ -30,6 +30,7 @@ This repo is where I upload everything I learn about JavaScript — from basics 
   - 📚 [JavaScript.info](https://javascript.info/)  
   - 📚 [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)  
   - 📚 YouTube JavaScript Tutorials:
+
         [Apna College Playlist](https://youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW&si=RswZMWmj_McvMwRQ)
         [freeCodeCamp.Org - JavaScript Full Course For Beginners (4+ hours)](https://youtu.be/PkZNo7MFNFg?si=OWOlC1yJyj1O-cu5)
         [Bro Code - JavaScript Full Course 2024](https://youtu.be/lfmg-EJ8gm4?si=myfkyT5-ND7jaj_r)
