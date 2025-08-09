@@ -27,7 +27,7 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 
 ---
 
-🚀 Future Plans
+## 🚀 Future Plans
 - More advanced topics like:
     - Async/Await & Promises
     - Fetch API & AJAX
