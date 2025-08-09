@@ -1,6 +1,7 @@
 # 📚 JavaScript Learning Journey
 
 Welcome to my **JavaScript Learning Repository**! 🚀  
+
 This repo is where I upload everything I learn about JavaScript — from basics to advanced concepts — including examples, practice problems, and mini-projects.
 
 ---
