@@ -24,7 +24,7 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 ├── 06-ES6+/            # Modern JavaScript features
 ├── Projects/          # Small JavaScript-based projects
 └── README.md          # Project documentation
-
+```
 ## 💡 How to Use
-	1.	Clone this repository:
+1.	Clone this repository:
     git clone https://github.com/rajan21045/js.git
