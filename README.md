@@ -36,12 +36,12 @@ This repo is where I upload everything I learn about JavaScript — from basics 
 
 ---
 
-📬 Contact
+## 📬 Contact
 
-If you have suggestions or want to collaborate, feel free to reach out!
+For feedback, collaboration, or questions, feel free to reach out:
 
-GitHub: rajan21045
-Email: raajan.works@example.com
+	📧 Email: raajan.works@gmail.com
+	🌐 GitHub: @rajan21045
 
 
 ⭐ If you like this repo, consider giving it a star!
