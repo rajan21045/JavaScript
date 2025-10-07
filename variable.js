@@ -9,7 +9,7 @@ Variables are Containers for Storing Data
 2. Using var
 3. Using let
 4. Using const
-
+ 
 */
 
 // Automatically declared variable
