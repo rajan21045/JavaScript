@@ -1,7 +1,7 @@
 const demo = document.getElementById("demo");
 const hour = new Date().getHours();
 let message = "";
-
+ 
 if (hour < 12) {
     message = " Good Morning!";
 } 
