@@ -8,7 +8,6 @@ let num4 = 5;
 let difference = num3 - num4;
 console.log("Difference:", difference);
 
-
 let num5 = 20;
 let num6 = 4;
 let quotient = num5 / num6;
