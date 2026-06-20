@@ -13,7 +13,6 @@ let num6 = 4;
 let quotient = num5 / num6;
 console.log("Quotient:", quotient);
 
-
 let num7 = 7;
 let num8 = 3;
 let product = num7 * num8;
